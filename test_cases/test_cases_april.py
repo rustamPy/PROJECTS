@@ -12,3 +12,6 @@ def add_val(list_val):
 def test_april_2(add_val,val):
 
     assert add_val==[val]
+
+def test_april_3():
+    assert 4==4
